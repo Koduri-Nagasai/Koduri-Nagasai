@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Koduri-Nagasai
 - 👀 I’m interested in learning what i found new
 - 🌱 I’m currently learning CSE computer programming 
-- 💞️ I’m looking to collaborate on Microsoft
+- 💞️ I’m looking to collaborate on Tata Consultancy Services
 - 📫 How to reach me by calling me:9347254826
 
 <!---
