@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Koduri-Nagasai
-- 👀 I’m interested in learning what i found new
-- 🌱 I’m currently learning CSE computer programming 
-- 💞️ I’m looking to collaborate on Tata Consultancy Services
-- 📫 How to reach me by calling me:9347254826
+- 👀 I’m interested in learning whatever I found New.
+- 🌱 I’m currently Pursuing B.Tech in Computer Science and Engineering. 
+- 💞️ I’m looking to improve my Skills in Field of Full Stack Web Development.
+- 📫 You can reach me out by calling me on 9347254826.
 
 <!---
 Koduri-Nagasai/Koduri-Nagasai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
